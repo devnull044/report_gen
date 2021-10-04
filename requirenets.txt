@@ -1,0 +1,6 @@
+python-pptx
+Jinja2
+weasyprint
+validators
+dateparser
+PyYAML
